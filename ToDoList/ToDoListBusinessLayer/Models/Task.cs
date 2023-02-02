@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataAccessLayer.Models
+namespace ToDoListBusinessLayer.Models
 {
-    public class Task
+    public class Tasks
     {
+        public string Id { get; set; }
         public string Name { get; set; }
 
         public string Status { get; set; }
