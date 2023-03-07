@@ -1,4 +1,4 @@
-# NovaFori-ToDoListApp
+# ToDoListApp
 1) Create two separate applications for UI and API.
 2) The API folder is - ToDoList
 3) The Web folder is - to-do-list-web and built on React.
